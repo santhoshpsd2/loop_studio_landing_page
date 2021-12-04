@@ -40,7 +40,7 @@ nav {
 
 .mobile_menu {
   /* display: none; */
-  transform: translateX(1250%);
+  transform: translateX(350%);
   position: absolute;
   top: 0;
   left: 0;
