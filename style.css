@@ -524,6 +524,11 @@ footer {
     max-width: unset;
   }
 
+  main {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
   header {
     height: 80vh;
     padding: 4rem 8rem;
